@@ -2,7 +2,7 @@ package = "csvigo"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---csv",
+   url = "git://github.com/museami/lua---csv",
    tag = "master"
 }
 
