@@ -2,7 +2,7 @@ package = "nnx"
 version = "0.1-1"
 
 source = {
-   url = "git://github.com/clementfarabet/lua---nnx",
+   url = "git://github.com/museami/lua---nnx",
    tag = "master"
 }
 
