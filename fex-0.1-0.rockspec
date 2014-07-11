@@ -2,7 +2,7 @@ package = "fex"
 version = "0.1-0"
 
 source = {
-   url = "git://github.com/koraykv/fex",
+   url = "git://github.com/museami/fex",
    tag = "master"
 }
 
