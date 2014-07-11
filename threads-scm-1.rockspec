@@ -2,7 +2,7 @@ package = "threads"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/threads-ffi.git"
+   url = "git://github.com/museami/threads-ffi.git"
 }
 
 description = {
