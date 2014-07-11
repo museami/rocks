@@ -2,7 +2,7 @@ package = "sdl2"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/sdl2-ffi.git"
+   url = "git://github.com/museami/sdl2-ffi.git"
 }
 
 description = {
